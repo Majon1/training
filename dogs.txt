@@ -1,2 +1,6 @@
 dogs are awesome!!!
+<<<<<<< HEAD
 cats are not!
+=======
+cats are better!
+>>>>>>> b1e72bdeba8bc4c6e553e5cd8274cace1482e4c0
