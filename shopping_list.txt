@@ -4,3 +4,5 @@ coca-cola,
 coffee,
 tomatoes,
 chocolate.
+chips,
+cucumber
