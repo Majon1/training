@@ -1,0 +1,6 @@
+milk,
+bread,
+coca-cola,
+coffee,
+tomatoes,
+chocolate.
