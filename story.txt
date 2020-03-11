@@ -1,4 +1,8 @@
 Once upon a time 
 there were a small kitten
 the kittens name was Tiny.
+<<<<<<< Updated upstream
 Tiny liked to climb trees.
+=======
+Tiny liked fish.
+>>>>>>> Stashed changes
